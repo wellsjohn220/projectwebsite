@@ -1,3 +1,5 @@
+/* https://wellsjohn220.github.io/projectwebsite/Demoproject-chart.html */
+
 A:link {
 FONT-WEIGHT: bold;  TEXT-DECORATION: none;
 FONT-SIZE: 14px ; COLOR: black;
@@ -71,7 +73,7 @@ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000
 }
 div.project_name {
   font-size: 200%;
-  color: blue;
+  color: red;
   font-weight: bold; 
   padding-top: 3px;
   padding-bottom: 3px;
