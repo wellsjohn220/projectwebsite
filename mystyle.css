@@ -45,7 +45,7 @@ FONT-SIZE: 14px ; COLOR: white ; BACKGROUND: #6d9ec6;
   color: gray;
 }
 TD {
-FONT-SIZE: 12px; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Geneva, sans-serif
+FONT-SIZE: 12px; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Geneva, sans-serif; pading: 10px 20px
 }
 UL {
 FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Geneva, sans-serif
