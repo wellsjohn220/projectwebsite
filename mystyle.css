@@ -83,6 +83,7 @@ div.project_name {
         div.page_links {
           background: #6d9ec6;
           text-align: center;
-          
+          padding: 10px 20px;
+          margin: 0 -20px;
         }
  
